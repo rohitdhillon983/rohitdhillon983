@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohit Dhillon</h1>
+<h1 align="left">Hi 👋, I'm Rohit Dhillon</h1>
 <h3 align="center">A passionate Web Development and Cybersecurity Engineering, eager to apply technical knowledge and innovative solutions to real-world challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhillon983&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhillon983" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitdhillon983" alt="rohitdhillon983" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rohitdhillon983" alt="rohitdhillon983" /> </a> </p>
 
 - 🔭 I’m currently working on [studynotion ED-Tech](https://studynotion-edtech-mern.netlify.app)
 
