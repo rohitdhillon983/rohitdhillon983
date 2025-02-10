@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Rohit Dhillon</h1>
+<h1 align="left">Hi 👋, I'm </h1>
+<div>
+  <img align="center" src="blob:https://loading.io/094b8a23-d93b-4dda-aae2-a427364b9b65" alt="rohit-dhillon-bug20421" width="100" />
+</div>
+
 <h3 align="center">A passionate Web Development and Cybersecurity Engineering, eager to apply technical knowledge and innovative solutions to real-world challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhillon983&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhillon983" /> </p>
@@ -25,13 +29,13 @@
   <img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxOTg4MzIsIm5iZiI6MTczOTE5ODUzMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDE0NDIxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwZDAzNGZiYzI4MTQ5ZTJmMzNjZWVlN2FlMGRhMGRjMzlmYjk3NTdkMDIzMzFhNjgwMjlkZGNlNDgzMzk3MDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SoTnUwkbzRXhSKS3tuqDeGKtVBUwj1R4v04YTlCki28" alt="_rohit_dhillon_" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/rohit-dhillon-bug20421" target="blank">
-  <img align="center" src="https://media.giphy.com/media/UqW1H5Gr0fx8cYxWLO/giphy.gif" alt="rohit-dhillon-bug20421" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="rohit-dhillon-bug20421" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/__rohit__dhillon__/" target="blank">
-  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o1ZDMxbTl4YWdxZDE5bXRxY2Fzd3B1eW4wdXd6ZDYzdjNxZzNsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YwNCU8P5jGMNKGG5Bq/giphy.gif" alt="__rohit__dhillon__" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="__rohit__dhillon__" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@editingroom9274" target="blank">
-  <img align="center" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="@editingroom9274" height="30" width="40" />
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="@editingroom9274" height="30" width="40" />
 </a>
 </p>
 
