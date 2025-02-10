@@ -28,7 +28,7 @@
   <img align="center" src="https://media.giphy.com/media/UqW1H5Gr0fx8cYxWLO/giphy.gif" alt="rohit-dhillon-bug20421" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/__rohit__dhillon__/" target="blank">
-  <img align="center" src="https://media4.giphy.com/media/YwNCU8P5jGMNKGG5Bq/giphy.gif" alt="__rohit__dhillon__" height="30" width="40" />
+  <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o1ZDMxbTl4YWdxZDE5bXRxY2Fzd3B1eW4wdXd6ZDYzdjNxZzNsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YwNCU8P5jGMNKGG5Bq/giphy.gif" alt="__rohit__dhillon__" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@editingroom9274" target="blank">
   <img align="center" src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="@editingroom9274" height="30" width="40" />
