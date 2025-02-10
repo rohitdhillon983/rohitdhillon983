@@ -5,6 +5,8 @@
 
 <h3 align="center">A passionate Web Development and Cybersecurity Engineering, eager to apply technical knowledge and innovative solutions to real-world challenges.</h3>
 
+<img align="center" src="[https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)" alt="rohit-dhillon-bug20421"  width="1240" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdhillon983&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdhillon983" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=rohitdhillon983" alt="rohitdhillon983" /> </a> </p>
