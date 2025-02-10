@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/_rohit_dhillon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rohit_dhillon_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-dhillon-bug20421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-dhillon-bug20421" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__rohit__dhillon__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__rohit__dhillon__/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__rohit__dhillon__/" target="blank"><img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3o1ZDMxbTl4YWdxZDE5bXRxY2Fzd3B1eW4wdXd6ZDYzdjNxZzNsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YwNCU8P5jGMNKGG5Bq/giphy.gif" alt="https://www.instagram.com/__rohit__dhillon__/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@editingroom9274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@editingroom9274" height="30" width="40" /></a>
 </p>
 
