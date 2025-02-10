@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_rohit_dhillon_" target="blank">
-  <img align="center" src="https://media.giphy.com/media/xTiTnncJguFnYx2LZq/giphy.gif" alt="_rohit_dhillon_" height="30" width="40" />
+  <img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxOTg4MzIsIm5iZiI6MTczOTE5ODUzMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDE0NDIxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwZDAzNGZiYzI4MTQ5ZTJmMzNjZWVlN2FlMGRhMGRjMzlmYjk3NTdkMDIzMzFhNjgwMjlkZGNlNDgzMzk3MDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SoTnUwkbzRXhSKS3tuqDeGKtVBUwj1R4v04YTlCki28" alt="_rohit_dhillon_" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/rohit-dhillon-bug20421" target="blank">
   <img align="center" src="https://media.giphy.com/media/UqW1H5Gr0fx8cYxWLO/giphy.gif" alt="rohit-dhillon-bug20421" height="30" width="40" />
