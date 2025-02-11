@@ -1,7 +1,4 @@
-<h1 align="left">Hi 👋, I'm </h1>
-<div>
-  <img align="center" src="blob:https://loading.io/094b8a23-d93b-4dda-aae2-a427364b9b65" alt="rohit-dhillon-bug20421" width="100" />
-</div>
+<h1 align="left">Hi 👋, I'm Rohit Dhillon</h1>
 
 <h3 align="center">A passionate Web Development and Cybersecurity Engineering, eager to apply technical knowledge and innovative solutions to real-world challenges.</h3>
 
